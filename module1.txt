@@ -1,1 +1,2 @@
 DragonFlying add a new function about how to get a device ID.
+刘蒙蒙添加了一个新的方法用于判断URL是否合法
